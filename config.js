@@ -59,22 +59,22 @@ global.syt = 'https://youtube.com/@Putra_Modz_'
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '083863727401' //Nomor Danamu
-global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
+global.pdana = '082230196826' //Nomor Danamu
+global.ppulsa = '082230196826' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
+global.nomorown = '6282230196826' //Nomor Owner
+global.namebot = 'YinBeta' //Nama Bot
+global.nameown = 'FazzXd' // Nama Owner
 global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
 global.tautanwa = 'https://api.whatsapp.com/send?phone=+6283863727401' //kalau bisa link wa bisnis kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜᴋputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['622230196826', 'FazzXd🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -141,13 +141,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᚯӃᶱᶮᶽᶲメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᚯӃᶱᶮᶽᶲメ฿Ø₮™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᚯӃᶱᶮᶽᶲメ฿Ø₮™'
-global.namedoc = 'ᚯӃᶱᶮᶽᶲメ' //Main Name Menu Document
+global.wm = '                「 YinBetaメ」' //Main Watermark
+global.wm2 = 'YinAlpha'
+global.wm3 = '⫹⫺ YinBot'
+global.namedoc = 'Yin' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ ᚯӃᶱᶮᶽᶲ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ Yin Maintance'
 global.author = global.wm
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
